@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+fire_dataset/
+results/
+*.pt
+*.pth
